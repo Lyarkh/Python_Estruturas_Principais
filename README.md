@@ -1,2 +1,2 @@
-# Python_Basico_e_Intermediario
+# Python_Estruturas_Principais
 Aprendendo funções do Python por meio de dois jogos simples. 
